@@ -1,0 +1,20 @@
+{
+    "en": {
+        "title": "My Website",
+        "greeting": "Hello",
+        "name": "User",
+        "farewell": "Goodbye"
+    },
+    "es": {
+        "title": "Mi Sitio Web",
+        "greeting": "Hola",
+        "name": "Usuario",
+        "farewell": "Adiós"
+    },
+     "fr": {
+        "title": "Mon site web",
+        "greeting": "Bonjour",
+        "name": "Utilisateur",
+        "farewell": "Au revoir"
+    }
+}
